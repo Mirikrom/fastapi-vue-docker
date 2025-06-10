@@ -1,0 +1,3 @@
+Login va register fayllari turbid
+Bootstrap install bo'gan
+Router ustanovka qilingan
